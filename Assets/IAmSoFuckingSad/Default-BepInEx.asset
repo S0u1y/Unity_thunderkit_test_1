@@ -32,7 +32,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>
-  definitions: []
+  definitions:
+  - {fileID: 5897886265953266890, guid: 889b96f5818c7d9458f01e9e146d0761, type: 3}
 --- !u!114 &114211852988908172
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -47,11 +48,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>
-  Author: 
-  Name: 
-  Description: 
+  Author: Me
+  Name: kekeke
+  Description: kekeke
   Version: 0.0.1
-  Dependencies: []
+  Dependencies:
+  - {fileID: 11400000, guid: 2d4d09ec817c24698d35dc9bf0704fdc, type: 2}
 --- !u!114 &114431642618062350
 MonoBehaviour:
   m_ObjectHideFlags: 1
