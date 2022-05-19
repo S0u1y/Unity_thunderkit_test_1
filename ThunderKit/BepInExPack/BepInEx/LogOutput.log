@@ -1,0 +1,102 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - Risk of Rain 2 (01.03.2022 19:57:56)
+[Info   :   BepInEx] Running under Unity v2019.4.26.14694700
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.17020
+[Info   :   BepInEx] Supports SRE: False
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Message:BepInEx.GUI.Patcher] Finding and launching GUI
+[Info   :   BepInEx] Patching [RoR2] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugins to load
+[Info   :   BepInEx] Loading [RoR2BepInExPack 1.0.3]
+[Message:   BepInEx] Chainloader startup complete
+[Warning: Unity Log] Network message MsgType.Highest + 22 is unregistered.
+[Info   : Unity Log] buildId = 1.2.3.1
+[Info   : Unity Log] WwiseUnity: Wwise(R) SDK Version 2019.2.12 Build 7544.
+[Info   : Unity Log] WwiseUnity: Setting Plugin DLL path to: C:/Program Files (x86)/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data\Plugins\x86_64
+[Info   : Unity Log] WwiseUnity: Sound engine initialized successfully.
+[Info   : Unity Log] Active scene changed from  to loadingbasic
+[Info   : Unity Log] Loaded scene loadingbasic loadSceneMode=2
+[Info   : Unity Log] application data path isC:/Program Files (x86)/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data
+[Info   :   Console] Facepunch.Steamworks Unity: WindowsPlayer
+[Info   :   Console] Facepunch.Steamworks Os: Windows
+[Info   :   Console] Facepunch.Steamworks Arch: x64
+[Info   : Unity Log] PlatformSystems:InitNetworkManagerSystem
+[Info   : Unity Log] Launch Parameters: 
+  arg[0]="C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2.exe"
+  arg[1]="--doorstop-enable"
+  arg[2]="true"
+  arg[3]="--doorstop-target"
+  arg[4]="D:/RoR2 Mod Projects/TestSurvivor/IHateEverything/Unity_thunderkit_test_1/ThunderKit/BepInExPack/BepInEx/core/BepInEx.Preloader.dll"
+
+[Info   : Unity Log] "usesocialiconflag" is not a recognized ConCommand or ConVar.
+[Info   : Unity Log] Loaded archived convars.
+[Info   : Unity Log] Could not load config /Config/autoexec.cfg: Could not find file "C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Config\autoexec.cfg"
+[Info   : Unity Log] LoadContentPacks() start
+[Warning: Unity Log] Failed to assign Buffs.Deafened: Asset "bdDeafened" not found.
+[Warning: Unity Log] Failed to assign Items.SummonedEcho: Asset "SummonedEcho" not found.
+[Warning: Unity Log] Failed to assign Equipment.AffixEcho: Asset "EliteEchoEquipment" not found.
+[Warning: Unity Log] Failed to assign Buffs.AffixEcho: Asset "bdEliteEcho" not found.
+[Warning: Unity Log] Failed to assign Elites.Echo: Asset "edEcho" not found.
+[Info   : Unity Log] LoadContentPacks() end
+[Warning: Unity Log] Could not find scene with name "loadingbasic".
+[Warning: Unity Log] Could not find scene with name "intro".
+[Info   : Unity Log] Command "set_scene" failed: "intro" is not a valid scene.
+[Info   : Unity Log] Game content load completed in 18658ms.
+[Info   : Unity Log] Setting current language to "en"
+[Info   : Unity Log] [RoR2.Stats.StatSheet] init stat sheet
+[Debug  :RoR2BepInExPack] SaferAchievementManager - assembly.GetTypes() failed for : protobuf-net, Version=2.4.0.0, Culture=neutral, PublicKeyToken=257b51d87d2e4d67
+Not all types will be scanned.
+[Info   : Unity Log] Attempting to load user profile /UserProfiles/25719c59-f1ca-4914-bdc2-69d7aac1f2ab.xml
+[Info   : Unity Log] stream.Length=138631
+[Info   : Unity Log] Attempting to load user profile /UserProfiles/abf09da3-18f9-4b82-86b7-eef115d64c48.xml
+[Info   : Unity Log] stream.Length=227655
+[Info   : Unity Log] Unloaded scene loadingbasic
+[Info   : Unity Log] Active scene changed from  to splash
+[Info   : Unity Log] Loaded scene splash loadSceneMode=Single
+[Info   : Unity Log] Setting offline scene to intro
+[Info   : Unity Log] Unloaded scene splash
+[Info   : Unity Log] Active scene changed from  to intro
+[Info   : Unity Log] Loaded scene intro loadSceneMode=Single
+[Info   : Unity Log] Setting offline scene to title
+[Info   : Unity Log] Unloaded scene intro
+[Info   : Unity Log] Active scene changed from  to title
+[Info   : Unity Log] Loaded scene title loadSceneMode=Single
+[Info   : Unity Log] BaseMainMenuScreen: OnEnter()
+[Info   : Unity Log] NetworkManagerSystem.desiredHost={ hostType=Self listen=False maxPlayers=4 }
+[Warning: Unity Log] The prefab 'ArenaMissionController' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+[Warning: Unity Log] The prefab 'Moon2DropshipZone' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+[Warning: Unity Log] The prefab 'HOLDER_ Gauntlets' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+[Warning: Unity Log] The prefab 'VoidCamp' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+[Info   : Unity Log] Unloaded scene title
+[Info   : Unity Log] Active scene changed from  to lobby
+[Info   : Unity Log] Loaded scene lobby loadSceneMode=Single
+[Info   : Unity Log] Adding local player controller 0 on connection hostId: -1 connectionId: 0 isReady: False channel count: 0
+[Info   : Unity Log] NetworkManagerSystem.AddPlayerInternal(conn=hostId: -1 connectionId: 0 isReady: False channel count: 0, playerControllerId=0, extraMessageReader=NetBuf sz:259 pos:259
+[Info   : Unity Log] OnClientSceneChanged networkSceneName=lobby loadedScenes=lobby
+[Error  : Unity Log] A connection has already been set as ready. There can only be one.
+[Info   : Unity Log] Player 0 already added, aborting.
+[Info   : Unity Log] SetSurvivorPreferenceClient survivorIndex=3, bodyIndex=34
+[Info   : Unity Log] Changinging body preference for Oveshka (RoR2.NetworkUserId) from None to 34
+[Info   : Unity Log] Changinging body preference for Oveshka (RoR2.NetworkUserId) from None to 34
+[Info   : Unity Log] Could not load config /Config/server_pregame.cfg: Could not find file "C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Config\server_pregame.cfg"
+[Info   : Unity Log] Attempting to generate PreGameVoteController for Oveshka
+[Info   : Unity Log] PreGameRuleVoteController.ClientTransmitVotesToServer()
+[Info   : Unity Log] Received vote from Oveshka
+[Info   : Unity Log] Accepting vote from Oveshka
+[Info   : Unity Log] <style=cEvent>Oveshka connected.</color>
+[Info   : Unity Log] NetworkManagerSystem.desiredHost={ hostType=None }
+[Info   : Unity Log] Network shutting down...
+[Info   : Unity Log] Server shutting down...
+[Info   : Unity Log] Issued kick message to all remote clients.
+[Info   : Unity Log] Finished waiting for clients to disconnect.
+[Info   : Unity Log] StopHost()
+[Info   : Unity Log] Server shutdown complete.
+[Info   : Unity Log] Unloaded scene lobby
+[Info   : Unity Log] Active scene changed from  to title
+[Info   : Unity Log] Loaded scene title loadSceneMode=Single
+[Info   : Unity Log] BaseMainMenuScreen: OnEnter()

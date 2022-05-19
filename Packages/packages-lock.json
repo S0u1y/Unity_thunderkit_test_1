@@ -35,6 +35,18 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "riskofthunder-hookgenpatcher": {
+      "version": "file:HookGenPatcher",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "tristanmcpherson-r2api": {
+      "version": "file:R2API",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
